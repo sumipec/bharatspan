@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bharatspan/static/css/main.ecfb4798.css",
-    "main.js": "/bharatspan/static/js/main.fd0a992d.js",
-    "index.html": "/bharatspan/index.html",
-    "main.ecfb4798.css.map": "/bharatspan/static/css/main.ecfb4798.css.map",
-    "main.fd0a992d.js.map": "/bharatspan/static/js/main.fd0a992d.js.map"
+    "main.css": "/static/css/main.ecfb4798.css",
+    "main.js": "/static/js/main.fd0a992d.js",
+    "index.html": "/index.html",
+    "main.ecfb4798.css.map": "/static/css/main.ecfb4798.css.map",
+    "main.fd0a992d.js.map": "/static/js/main.fd0a992d.js.map"
   },
   "entrypoints": [
     "static/css/main.ecfb4798.css",
